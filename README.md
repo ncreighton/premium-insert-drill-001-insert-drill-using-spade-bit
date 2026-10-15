@@ -1,0 +1,2 @@
+# premium-insert-drill-001-insert-drill-using-spade-bit
+Tired of guessing the right spade bit size for your insert drill projects? End the frustration of mismatched holes and wasted materials with a structured workshop template that guides you from planning to perfect execution.  This Notion template solves the chaos of managing multiple spade bit sizes, drill depths, and material types. It provides a s
